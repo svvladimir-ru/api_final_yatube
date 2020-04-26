@@ -7,7 +7,7 @@ api final - это API проекта youtube
 
 ### Требования
 
-    * [Python](https://www.python.org/downloads/) v3.7 +  для запуска.
+    * https://www.python.org/downloads/ - automatic! [Python](https://www.python.org/downloads/) v3.7 +  для запуска.
     Установите зависимости и виртуальное окружение и запустите сервер.
 
     $ pip install virtualenv
