@@ -11,12 +11,13 @@ api final - это API проекта youtube
 [Python](https://www.python.org/downloads/) v3.7 +  для запуска.
 Установите зависимости и виртуальное окружение и запустите сервер.
 
+```sh
 $ pip install virtualenv
 $ virtualenv 'название виртуального окружения'
 $ venv 'название виртуального окружения'/Scripts(или bin для linux)/activate
 $ pip install -r requirements.txt
 $ python manage.py runserver
-
+```
 ### Примеры запросов
 
 Примеры запросов предоставлены по [ ссылке ]( http://127.0.0.1:8000/redoc/ )
