@@ -7,7 +7,7 @@ api final - это API проекта youtube
 
 ### Требования
 
-    * [Python] (https://www.python.org/downloads/) v3.7 +  для запуска.
+    * [ Python ] ( https://www.python.org/downloads/ ) v3.7 +  для запуска.
     Установите зависимости и виртуальное окружение и запустите сервер.
 
     $ pip install virtualenv
@@ -18,7 +18,7 @@ api final - это API проекта youtube
 
 ### Примеры запросов
 
-    Примеры запросов предоставлены по [ссылке] (http://127.0.0.1:8000/redoc/)
+    Примеры запросов предоставлены по [ ссылке ] ( http://127.0.0.1:8000/redoc/ )
 
 
 
